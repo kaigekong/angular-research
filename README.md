@@ -1,3 +1,3 @@
-# AlanKong
+# Angular Research
 
-* angular-research
+* 版本 1.x.x
